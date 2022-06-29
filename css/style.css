@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.curry {
+    width: 300px;
+    height: auto;
+}
+
+ul {
+    display: inline-block;
+}
+
+ol {
+    display: inline-block;
+}
+
+ul li {
+    text-align: left;
+}
+
+ol li {
+    text-align: left;
+}
